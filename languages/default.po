@@ -1,0 +1,965 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheFirst v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-17 09:34+0700\n"
+"PO-Revision-Date: 2012-03-17 09:35+0700\n"
+"Last-Translator: Minh <lacrus.minhnguyen@gmail.com>\n"
+"Language-Team: PWvintage\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:4
+msgid "404 Error - Page Not Found!"
+msgstr ""
+
+#: ../404.php:13
+msgid "The page you try to looking for couldn't be retrieved. Try another search, please:"
+msgstr ""
+
+#: ../archive.php:10
+msgid "Category: "
+msgstr ""
+
+#: ../archive.php:12
+msgid "Posts Tagged: "
+msgstr ""
+
+#: ../archive.php:14
+#: ../archive.php:16
+#: ../archive.php:18
+msgid "Archive For: "
+msgstr ""
+
+#: ../archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: ../blog-two-columns-template.php:31
+msgid "post by "
+msgstr ""
+
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:15
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:38
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:38
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:38
+msgid " to post a comment."
+msgstr ""
+
+#: ../comments.php:46
+msgid "Logged in as "
+msgstr ""
+
+#: ../comments.php:46
+msgid "Log out &raquo; "
+msgstr ""
+
+#: ../comments.php:50
+msgid "Name (Required)"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Email (Required)"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Message (Required)"
+msgstr ""
+
+#: ../functions.php:127
+msgid "Left Nav"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Right Nav"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Footer Nav"
+msgstr ""
+
+#: ../functions.php:216
+msgid "Add New Slider"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Edit Slider"
+msgstr ""
+
+#: ../functions.php:218
+msgid "New Slider"
+msgstr ""
+
+#: ../functions.php:219
+msgid "View Slider"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Search Sliders"
+msgstr ""
+
+#: ../functions.php:221
+msgid "No Slider found"
+msgstr ""
+
+#: ../functions.php:222
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: ../functions.php:235
+msgid "Clients"
+msgstr ""
+
+#: ../functions.php:236
+msgid "Client"
+msgstr ""
+
+#: ../functions.php:238
+msgid "Add New Client"
+msgstr ""
+
+#: ../functions.php:239
+msgid "Edit Client"
+msgstr ""
+
+#: ../functions.php:240
+msgid "New Client"
+msgstr ""
+
+#: ../functions.php:241
+msgid "View Client"
+msgstr ""
+
+#: ../functions.php:242
+msgid "Search Clients"
+msgstr ""
+
+#: ../functions.php:243
+msgid "No Clients found"
+msgstr ""
+
+#: ../functions.php:244
+msgid "No Clients found in Trash"
+msgstr ""
+
+#: ../functions.php:260
+msgid "FaQs"
+msgstr ""
+
+#: ../functions.php:261
+msgid "FaQ"
+msgstr ""
+
+#: ../functions.php:263
+msgid "Add New FaQ"
+msgstr ""
+
+#: ../functions.php:264
+msgid "Edit FaQ"
+msgstr ""
+
+#: ../functions.php:265
+msgid "New FaQ"
+msgstr ""
+
+#: ../functions.php:266
+msgid "View FaQ"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Search FaQs"
+msgstr ""
+
+#: ../functions.php:268
+msgid "No FaQs found"
+msgstr ""
+
+#: ../functions.php:269
+msgid "No FaQs found in Trash"
+msgstr ""
+
+#: ../functions.php:285
+#: ../functions.php:286
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Add New Portfolio Project"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Edit Portfolio Project"
+msgstr ""
+
+#: ../functions.php:290
+msgid "New Portfolio Project"
+msgstr ""
+
+#: ../functions.php:291
+msgid "View Portfolio Project"
+msgstr ""
+
+#: ../functions.php:292
+msgid "Search Portfolio Projects"
+msgstr ""
+
+#: ../functions.php:293
+msgid "No Portfolio Projects found"
+msgstr ""
+
+#: ../functions.php:294
+msgid "No Portfolio Projects found in Trash"
+msgstr ""
+
+#: ../functions.php:311
+msgid "Categories"
+msgstr ""
+
+#: ../functions.php:312
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Search Categories"
+msgstr ""
+
+#: ../functions.php:314
+msgid "All Categories"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Parent Category"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Parent Category:"
+msgstr ""
+
+#: ../functions.php:317
+msgid "Edit Category"
+msgstr ""
+
+#: ../functions.php:318
+msgid "Update Category"
+msgstr ""
+
+#: ../functions.php:319
+msgid "Add New Category"
+msgstr ""
+
+#: ../functions.php:320
+msgid "New Category Name"
+msgstr ""
+
+#: ../functions.php:321
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../functions.php:332
+msgid "Tags"
+msgstr ""
+
+#: ../functions.php:333
+msgid "Tag"
+msgstr ""
+
+#: ../functions.php:334
+msgid "Search Tags"
+msgstr ""
+
+#: ../functions.php:335
+msgid "All Tags"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Parent Tag"
+msgstr ""
+
+#: ../functions.php:337
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../functions.php:338
+msgid "Edit Tag"
+msgstr ""
+
+#: ../functions.php:339
+msgid "Update Tag"
+msgstr ""
+
+#: ../functions.php:340
+msgid "Add New Tag"
+msgstr ""
+
+#: ../functions.php:341
+msgid "New Tag Name"
+msgstr ""
+
+#: ../portfolio-2-columns-template.php:25
+#: ../portfolio-3-columns-template.php:25
+msgid "Filter By"
+msgstr ""
+
+#: ../portfolio-2-columns-template.php:28
+#: ../portfolio-3-columns-template.php:28
+#: ../portfolio-4-columns-template.php:28
+msgid "All"
+msgstr ""
+
+#: ../portfolio-4-columns-template.php:25
+msgid "Filter By: "
+msgstr ""
+
+#: ../search.php:51
+msgid "Sorry, nothing found for that search. Try another search:"
+msgstr ""
+
+#: ../single-portfolio.php:254
+msgid "Copyright"
+msgstr ""
+
+#: ../single-portfolio.php:262
+msgid "Project URL"
+msgstr ""
+
+#: ../single-portfolio.php:267
+msgid "Content"
+msgstr ""
+
+#: ../single-portfolio.php:353
+msgid "Related Projects"
+msgstr ""
+
+#: ../single.php:38
+msgid "Tags: "
+msgstr ""
+
+#: ../single.php:44
+msgid "Post Written By "
+msgstr ""
+
+#: ../single.php:53
+#: ../functions/theme-admin.php:572
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions/better-comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/better-comments.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/theme-admin.php:78
+msgid "The-First Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:122
+msgid "The-First Theme Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:135
+msgid "Main"
+msgstr ""
+
+#: ../functions/theme-admin.php:136
+msgid "Styling & Font"
+msgstr ""
+
+#: ../functions/theme-admin.php:137
+msgid "SEO"
+msgstr ""
+
+#: ../functions/theme-admin.php:138
+msgid "Homepage"
+msgstr ""
+
+#: ../functions/theme-admin.php:140
+msgid "Blog"
+msgstr ""
+
+#: ../functions/theme-admin.php:141
+msgid "Social"
+msgstr ""
+
+#: ../functions/theme-admin.php:142
+msgid "Footer"
+msgstr ""
+
+#: ../functions/theme-admin.php:143
+msgid "Tracking Code"
+msgstr ""
+
+#: ../functions/theme-admin.php:154
+msgid "Logo Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:155
+msgid "Main Logo"
+msgstr ""
+
+#: ../functions/theme-admin.php:165
+msgid "Favicon Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:167
+msgid "Favicon"
+msgstr ""
+
+#: ../functions/theme-admin.php:170
+msgid "Enter the URL of your .ico favicon file"
+msgstr ""
+
+#: ../functions/theme-admin.php:173
+msgid "Main Menu Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:175
+msgid "Padding among Main Menu elements"
+msgstr ""
+
+#: ../functions/theme-admin.php:177
+msgid "Default is 14px"
+msgstr ""
+
+#: ../functions/theme-admin.php:221
+msgid "Heading Font Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:223
+msgid "Choose font"
+msgstr ""
+
+#: ../functions/theme-admin.php:232
+msgid "The Heading Fonts based on @font-face. To generate them, please upload your font onto <a href=\"http://www.fontsquirrel.com/fontface/generator\" target=\"_blank\">Font Squirrel</a>, wait for a second and then download your font-face kit (.zip file). Extract the downloaded .zip file, upload four files: -webfont.eot, -webfont.woff, -webfont.ttf, -webfont.svg to \"<b><i>wp-content / themes / thefirst / font / custom /</i></b>\", refresh this page and your font will appear in the drop-down list above."
+msgstr ""
+
+#: ../functions/theme-admin.php:235
+msgid "Top Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:237
+msgid "Top-line Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:244
+msgid "Social icon on hover Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:250
+msgid "Menu on hover Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:257
+msgid "Text Link On Hover Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:259
+#: ../functions/theme-admin.php:331
+#: ../functions/theme-admin.php:346
+msgid "Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:265
+#: ../functions/theme-admin.php:337
+#: ../functions/theme-admin.php:352
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:272
+msgid "Text Module Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:274
+msgid "Text Module Link Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:280
+msgid "Text Module Link BackgroundColor"
+msgstr ""
+
+#: ../functions/theme-admin.php:287
+msgid "Slider Module Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:289
+msgid "Navigation Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:295
+msgid "Navigation BackgroundColor"
+msgstr ""
+
+#: ../functions/theme-admin.php:302
+msgid "Intro Module Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:304
+msgid "Text Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:311
+msgid "Services Module Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:313
+msgid "Title on hover Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:320
+msgid "Clients Module Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:322
+msgid "ClientURL Color"
+msgstr ""
+
+#: ../functions/theme-admin.php:329
+msgid "Banner Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:344
+msgid "Sidebar Title Color Settings"
+msgstr ""
+
+#: ../functions/theme-admin.php:366
+msgid "Meta keywords"
+msgstr ""
+
+#: ../functions/theme-admin.php:369
+msgid "Enter your meta-keywords"
+msgstr ""
+
+#: ../functions/theme-admin.php:372
+msgid "Meta description"
+msgstr ""
+
+#: ../functions/theme-admin.php:375
+msgid "Enter your meta-description"
+msgstr ""
+
+#: ../functions/theme-admin.php:378
+msgid "Google verify code"
+msgstr ""
+
+#: ../functions/theme-admin.php:381
+msgid "Enter your Google verify code"
+msgstr ""
+
+#: ../functions/theme-admin.php:394
+msgid "Homepage Section 1"
+msgstr ""
+
+#: ../functions/theme-admin.php:402
+msgid "Homepage Section 2"
+msgstr ""
+
+#: ../functions/theme-admin.php:410
+msgid "Homepage Section 3"
+msgstr ""
+
+#: ../functions/theme-admin.php:418
+msgid "Homepage Section 4"
+msgstr ""
+
+#: ../functions/theme-admin.php:425
+msgid "Homepage Section 5"
+msgstr ""
+
+#: ../functions/theme-admin.php:435
+msgid "Homepage Text Content"
+msgstr ""
+
+#: ../functions/theme-admin.php:437
+msgid "Enter your text for the homepage Text Module"
+msgstr ""
+
+#: ../functions/theme-admin.php:442
+msgid "Allow Slider to display the latest Portfolios"
+msgstr ""
+
+#: ../functions/theme-admin.php:450
+msgid "Slider Background"
+msgstr ""
+
+#: ../functions/theme-admin.php:462
+msgid "Homepage Intro Text"
+msgstr ""
+
+#: ../functions/theme-admin.php:464
+msgid "Enter your text for the homepage intro"
+msgstr ""
+
+#: ../functions/theme-admin.php:467
+msgid "Homepage Intro Author"
+msgstr ""
+
+#: ../functions/theme-admin.php:473
+msgid "Services Title"
+msgstr ""
+
+#: ../functions/theme-admin.php:475
+msgid "Enter the title for your services module <small>Default is \"Our services\".</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:478
+msgid "Services Link Text"
+msgstr ""
+
+#: ../functions/theme-admin.php:480
+msgid "Enter the title for your services module <small>Default is \"More details\".</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:483
+msgid "Services Link"
+msgstr ""
+
+#: ../functions/theme-admin.php:491
+msgid "Client Title"
+msgstr ""
+
+#: ../functions/theme-admin.php:493
+msgid "Enter the title for your Clients module <small>. Default is \"Our trusted Clients\".</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:496
+msgid "Number of Items"
+msgstr ""
+
+#: ../functions/theme-admin.php:498
+msgid "Enter the number of items to display in the homepage Clients module <small>. Default is 8.</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:501
+msgid "Carousel Speed"
+msgstr ""
+
+#: ../functions/theme-admin.php:503
+msgid "Enter the moving transition speed in milliseconds <small>. Default is 500.</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:506
+msgid "Carousel Move Quantity"
+msgstr ""
+
+#: ../functions/theme-admin.php:508
+msgid "Enter the number of items you want to scroll by when users click the arrows on the Clients module carousel<small>. Default is 1</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:520
+msgid "Portfolio excerpt content"
+msgstr ""
+
+#: ../functions/theme-admin.php:530
+msgid "Related Portfolio Section"
+msgstr ""
+
+#: ../functions/theme-admin.php:538
+msgid "Related Portfolio Title"
+msgstr ""
+
+#: ../functions/theme-admin.php:542
+msgid "Comment Form"
+msgstr ""
+
+#: ../functions/theme-admin.php:559
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../functions/theme-admin.php:561
+msgid "Enter a character length for the blog posts excerpts<small>Default is 60.</small>"
+msgstr ""
+
+#: ../functions/theme-admin.php:564
+msgid "Featured Image on top of single blog"
+msgstr ""
+
+#: ../functions/theme-admin.php:580
+msgid "Author Bio Section"
+msgstr ""
+
+#: ../functions/theme-admin.php:597
+msgid "Twitter URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:601
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:605
+msgid "MySpace"
+msgstr ""
+
+#: ../functions/theme-admin.php:608
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:612
+msgid "deviantArt URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:616
+msgid "Dribble URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:620
+msgid "RSS URL"
+msgstr ""
+
+#: ../functions/theme-admin.php:633
+#: ../functions/theme-admin.php:634
+msgid "Footer Background"
+msgstr ""
+
+#: ../functions/theme-admin.php:643
+msgid "Copyright Text"
+msgstr ""
+
+#: ../functions/theme-admin.php:645
+msgid "Enter the text at the bottom-left of page"
+msgstr ""
+
+#: ../functions/theme-admin.php:657
+msgid "Header Tracking Code"
+msgstr ""
+
+#: ../functions/theme-admin.php:659
+msgid "Enter your analytics tracking code to insert it in the head tag of your site"
+msgstr ""
+
+#: ../functions/theme-admin.php:662
+msgid "Footer Tracking Code"
+msgstr ""
+
+#: ../functions/theme-admin.php:664
+msgid "Enter your analytics tracking code to insert it in the footer of your site right before the end body tag"
+msgstr ""
+
+#: ../functions/theme-admin.php:677
+msgid "Save Options"
+msgstr ""
+
+#: ../functions/metaboxes/clients-meta.php:20
+msgid "Client URL:"
+msgstr ""
+
+#: ../functions/metaboxes/clients-meta.php:70
+msgid "Clients Settings"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:24
+msgid "Image 1:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:27
+#: ../functions/metaboxes/portfolio-meta.php:39
+#: ../functions/metaboxes/portfolio-meta.php:51
+#: ../functions/metaboxes/portfolio-meta.php:63
+#: ../functions/metaboxes/portfolio-meta.php:75
+msgid "Browse"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:30
+#: ../functions/metaboxes/portfolio-meta.php:42
+#: ../functions/metaboxes/portfolio-meta.php:54
+#: ../functions/metaboxes/portfolio-meta.php:66
+#: ../functions/metaboxes/portfolio-meta.php:78
+msgid "This image will be resized to 630x420 pixels."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:36
+msgid "Image 2:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:48
+msgid "Image 3:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:60
+msgid "Image 4:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:72
+msgid "Image 5:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:106
+msgid "Video Embed Code:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:111
+msgid "Add your video embed code (such as: youtube & vimeo). Resolution should be 640x360 pixels."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:141
+msgid "Copyright:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:146
+msgid "The name of the owner for this portfolio item."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:152
+msgid "Project URL:"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:157
+msgid "The link/URL of this portfolio item."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:217
+msgid "Slider Settings"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:218
+msgid "Video Settings"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio-meta.php:219
+msgid "Additional Information"
+msgstr ""
+
+#: ../functions/widgets/custom-menu.php:53
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../functions/widgets/custom-menu.php:58
+#: ../functions/widgets/flickr.php:64
+#: ../functions/widgets/home-services.php:65
+#: ../functions/widgets/recent-comments.php:40
+#: ../functions/widgets/recent-portfolio.php:65
+#: ../functions/widgets/recent-posts.php:66
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/custom-menu.php:62
+#: ../functions/widgets/custom-menu.php:73
+msgid "Select Menu:"
+msgstr ""
+
+#: ../functions/widgets/flickr.php:11
+msgid "Get images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/flickr.php:13
+msgid "PWvintage Flickr"
+msgstr ""
+
+#: ../functions/widgets/flickr.php:69
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/flickr.php:74
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/home-services.php:69
+msgid "Link to:"
+msgstr ""
+
+#: ../functions/widgets/home-services.php:73
+msgid "Icon:"
+msgstr ""
+
+#: ../functions/widgets/home-services.php:77
+#: ../functions/widgets/home-services.php:81
+#: ../functions/widgets/home-services.php:85
+#: ../functions/widgets/home-services.php:89
+#: ../functions/widgets/home-services.php:93
+msgid "Content:"
+msgstr ""
+
+#: ../functions/widgets/recent-comments.php:44
+#: ../functions/widgets/recent-portfolio.php:69
+#: ../functions/widgets/recent-posts.php:70
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/recent-comments.php:80
+msgid "No comments"
+msgstr ""
+
+#: ../functions/widgets/recent-comments.php:89
+msgid "Anonymous"
+msgstr ""
+
+#: ../functions/widgets/recent-portfolio.php:73
+#: ../functions/widgets/recent-posts.php:74
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:125
+msgid "Number of tweets to display"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:129
+msgid "Twitter username"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:133
+msgid "Tweets links color"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:137
+msgid "Show hashtags?"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:141
+msgid "Show timestamp?"
+msgstr ""
+
+#: ../functions/widgets/tweets.php:145
+msgid "Show avatars?"
+msgstr ""
+
+#: ../includes/home-modules/home-client.php:21
+msgid "Our Trusted Clients"
+msgstr ""
+
+#: ../includes/home-modules/home-client.php:51
+msgid "Client URL: "
+msgstr ""
+
+#: ../includes/home-modules/home-services.php:11
+msgid "Our services"
+msgstr ""
+
+#: ../includes/home-modules/home-services.php:17
+msgid "More details "
+msgstr ""
+

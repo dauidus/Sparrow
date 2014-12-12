@@ -1,0 +1,134 @@
+@font-face {
+font-family: 'Nilland';
+src: url('../font/nilland-webfont.eot');
+src: url('../font/nilland-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../font/nilland-webfont.woff') format('woff'),
+     url('../font/nilland-webfont.ttf') format('truetype'),
+     url('../font/nilland-webfont.svg#Nilland') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+.clear{
+	clear:both;
+	}
+.wrap{
+	margin-left:10px;
+	}
+#panel-content{    
+	position:relative;    
+	width:752px;   
+	background:url(../images/body-bg.png);
+    border:1px solid #CCC;
+	margin-bottom:30px;    
+	-moz-box-shadow:0px 0px 4px #CCC;    
+	-webkit-box-shadow:0px 0px 4px #CCC;    
+	box-shadow:0px 0px 4px #CCC;
+	
+	}
+#wrap-left{
+	float:left;    
+	width:200px;
+	}
+#wrap-right{    
+	float:left;    
+	width:550px;
+	}
+#options-header{    
+	position:relative;
+	width:752px;    
+	height:70px;    
+	margin-top:15px;    
+	background:url(../images/texture.png) #60817A; 
+	border-top:1px solid #CCC; 
+	border-left:1px solid #CCC; 
+	border-right:1px solid #CCC; 
+	line-height:70px; 
+}
+#options-header h2{
+	font-family:'Nilland';
+	font-weight:bold;
+	margin:5px 20px 0;
+	text-shadow:0px 1px 1px rgba(0,0,0, .3);
+	color:#f8f5ed;
+	font-size:30px;
+}
+.icon32{ 
+	position:absolute; 
+	right:0px;
+}
+ul.tabs{ 
+	list-style:none;
+}
+ul.tabs li{
+	margin:0; 
+	padding:0; 
+	height:40px; 
+	line-height:40px; 
+	overflow:hidden; 
+	position:relative; 
+	border-bottom:1px solid #cacaca;
+}
+.no-margin-top{
+	margin-top:none !important;
+}
+ul.tabs li a{ 
+	font-family:'Nilland';
+	line-height:40px; 
+	text-decoration:none; 
+	font-weight:bold; 
+	color:#666666; 
+	display:block; 
+	font-size:18px; 
+	padding:0 20px 0 20px; 
+	text-shadow:0px 1px 1px rgba(0,0,0, .3);
+}
+ul.tabs li a:hover{ background-color:#60817A; color:#f8f5ed; background-position:left; background-repeat:no-repeat}
+html ul.tabs li.active,html ul.tabs li.active a:hover{ background-color:#60817A; background-position:left; background-repeat:no-repeat}
+html ul.tabs li.active a{color:#f8f5ed}
+.tab_container{
+	min-height:550px;    
+	border-left:1px solid #CCC;    
+	overflow:hidden;    
+	clear:both;    
+	float:left;    
+	width:551px;
+	padding-bottom:40px;    
+	background:url(../images/bkg.png)
+}
+.tab_content{    padding:20px;    font-size:1.2em;line-height:1.5em}.tab_content ul li{    position:relative;    margin-bottom:25px;    padding:20px;}.tab_content li ul{margin:30px 0}.tab_content li ul li{    border:none;    margin-bottom:5px;    padding-bottom:0;    margin-left:50px;    list-style:circle}.tab_content h2{font-size:18px; border-bottom:1px dashed #666;}
+.tab_content h3{    
+	font-family:"Times New Roman", Times, serif;    
+	color:#666;        
+	font-weight:normal;    
+	font-size:14px;    
+	padding:0;        
+	width:190px;    
+	float:left;
+	margin-top:0 !important;    
+	margin-right:20px;    
+	line-height:1.3em}
+.tab_content input[type="text"],.tab_content textarea{    
+	background-color:white;    
+	border:1px solid #D5D5D5;
+}
+.tab_content select,.tab_content input,.tab_content select{margin-left:-20px}.tab_content select:focus,.tab_content input:focus,.tab_content textarea:focus{border:1px solid #91CCF0}.tab_content textarea{width:540px}.tab_content select,.tab_content input[type="text"]{width:250px}.tab_content textarea{    width:400px;    height:140px}.tab_content input[type=checkbox]{    width:20px;    float:left;    margin:1px 8px 0 0}
+.tab_content label{   
+	font-family:"Times New Roman", Times, serif; 
+	clear:left;    
+	font-size:14px;
+	line-height:20px;    
+	display:block;    
+	color:#999;      
+	cursor:auto;    
+	margin-right:20px;    
+	margin-top:20px;
+}
+
+.wrap h2{
+	margin-bottom:20px;
+	font-family:'Nilland';
+	font-size:24px;
+	text-shadow:0px 1px 1px rgba(0,0,0, .3);
+	font-weight:normal;
+}
+.submit-changes{    position:absolute;    right:15px;    bottom:5px}small{    display:block;    color:#666;    font-size:11px}.upload_image_button{cursor:pointer !important}.options-panel-save-btn{    background:url(images/save.png) repeat-x !important; height:30px; padding:0 10px !important; color:#FFF; font-weight:bold; outline:none !important; -webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important}.nofloat{float:none !important;width:500px !important}.logo-preview{ margin:30px 0; overflow:hidden; border:1px solid #CCC; padding:20px; background:#FFF; -moz-box-shadow:inset 0 0 10px #CCC; -webkit-box-shadow:inset 0 0 10px #CCC; box-shadow:inset 0 0 10px #CCC}.color-preview{ position:absolute; height:16px; width:16px; border:2px solid #FFF;outline:1px solid #CCC; right:65px; top:21px}.upload_image_button{margin-top: 20px !important;}
